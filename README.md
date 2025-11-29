@@ -1,5 +1,9 @@
 # Angular-Components Section1: Anatomy-of-Component
 
+## Application verification
+
+<img width="1397" height="728" alt="image" src="https://github.com/user-attachments/assets/afd9074b-5758-478b-a08c-50a56b8a8378" />
+
 ## Project Folders and Files structure
 
 <img width="418" height="626" alt="image" src="https://github.com/user-attachments/assets/1faeee76-a86b-4933-b104-aba722f84d63" />
@@ -135,6 +139,3 @@ import { Component } from '@angular/core';
 })
 export class StyledCardComponent {}
 ```
-## Application verification
-
-<img width="1397" height="728" alt="image" src="https://github.com/user-attachments/assets/afd9074b-5758-478b-a08c-50a56b8a8378" />
