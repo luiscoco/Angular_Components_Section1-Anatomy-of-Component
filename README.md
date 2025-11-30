@@ -1,6 +1,6 @@
 # Angular-Components Section1: Anatomy-of-Component
 
-## Application verification
+## Demo
 
 <img width="1397" height="728" alt="image" src="https://github.com/user-attachments/assets/afd9074b-5758-478b-a08c-50a56b8a8378" />
 
